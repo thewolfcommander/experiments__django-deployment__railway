@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "experiments-django-deployment-on-render"
+name = "experiments-django-deployment-on-railway"
 version = "0.1.0"
 description = ""
 authors = ["Manoj Tyagi <tyagimanojtyagi.22@gmail.com>"]
